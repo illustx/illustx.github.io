@@ -110,12 +110,12 @@
       "src/routes/[...path]/+page.svelte"
     ]
   },
-  "src/routes/[...path]/+page.css": {
-    "file": "_app/immutable/assets/_page-58ddd386.css",
-    "src": "src/routes/[...path]/+page.css"
-  },
   "src/routes/+layout.css": {
     "file": "_app/immutable/assets/_layout-9cb0ea11.css",
     "src": "src/routes/+layout.css"
+  },
+  "src/routes/[...path]/+page.css": {
+    "file": "_app/immutable/assets/_page-58ddd386.css",
+    "src": "src/routes/[...path]/+page.css"
   }
 }
